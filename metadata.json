@@ -1,0 +1,5 @@
+{
+  "name": "Team Task Management Pro",
+  "description": "A comprehensive team task management app for creating, assigning, and tracking tasks. It features multiple views like Kanban and Calendar, role-based access for managers and team members, and an analytics dashboard.",
+  "requestFramePermissions": []
+}
